@@ -7,10 +7,10 @@ The goal is to extract key insights on sales performance, customer behavior, and
 ## 📁 Dataset
 
 The dataset contains **4 CSV files**:
-- `Sales.Customers.csv` → Customer details  
-- `Sales.Employees.csv` → Employee details  
-- `Sales.Orders.csv` → Orders (main fact table)  
-- `Sales.Products.csv` → Product details  
+-  Customer details  
+-  Employee details  
+-  Orders (main fact table)  
+-  Product details  
 
 ---
 
